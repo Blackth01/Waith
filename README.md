@@ -1,5 +1,5 @@
 # Waith
-Sistema para restaurantes feito com Java e Hibernate.
+Sistema para restaurantes feito com JTable e Hibernate.
 
 ### Funcionalidades
 - Cadastrar pratos
